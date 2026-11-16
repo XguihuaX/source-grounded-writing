@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "project": "",
+  "overview": "overview.md",
+  "materials": [],
+  "summaries": [],
+  "redaction_decisions": [],
+  "review": {
+    "status": "not_started",
+    "confirmed_scope": "",
+    "confirmed_at": null
+  }
+}

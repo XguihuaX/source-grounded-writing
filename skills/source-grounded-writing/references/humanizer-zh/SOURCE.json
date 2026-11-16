@@ -1,0 +1,15 @@
+{
+  "upstream": "https://github.com/op7418/Humanizer-zh",
+  "author": "歸藏 / op7418",
+  "license": "MIT",
+  "snapshot_source": "Existing local humanizer-zh installation",
+  "upstream_commit": null,
+  "upstream_version": null,
+  "packaged_date": "2026-11-16",
+  "modifications": "None; the three upstream files are copied verbatim. This is a local snapshot, not a claim of the latest upstream version.",
+  "sha256": {
+    "SKILL.md": "e0edbdbc9008644263d5573fb59beac95794e188fd99c35012bfd79e9ae4beeb",
+    "README.md": "60cd3ed8b4753837ca8f8fcebf6076a38591a269d91ea1791aa7448e5a1b1b58",
+    "LICENSE": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7"
+  }
+}
